@@ -41,3 +41,11 @@ and "--include-directory=${workspaceFolder}/utils/" is where i kept my util 3rd 
 
 
 ```
+
+
+## Easiest workflow i found
+
+1) install wsl on windows
+2) go the workspace folder and get cmd and type wsl then code .
+3) then install g++ and gdb
+4) write a small helloworld program and run vscode. it will create a sample task.json. you can edit this json 
